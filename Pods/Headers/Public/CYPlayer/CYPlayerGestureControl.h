@@ -1,0 +1,1 @@
+../../../CYPlayer/CYPlayer/CYVideoPlayer/GestureControl/CYPlayerGestureControl.h
